@@ -127,8 +127,8 @@ function! edge#get_palette(style, dim_foreground, colors_override) "{{{
   else "{{{
     let palette = {
           \ 'black':      ['#dde2e7',   '253'],
-          \ 'bg_dim':     ['#e8ebf0',   '254'],
-          \ 'bg0':        ['#fafafa',   '231'],
+          \ 'bg_dim':     ['#fafafa',   '231'],
+          \ 'bg0':        ['#ffffff',   '15'],
           \ 'bg1':        ['#eef1f4',   '255'],
           \ 'bg2':        ['#e8ebf0',   '254'],
           \ 'bg3':        ['#e8ebf0',   '253'],
